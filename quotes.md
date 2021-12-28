@@ -1,4 +1,4 @@
-# Quotes
+# Quotes I like
 
 - "Don't start a company unless you're prepared to make it your life's mission." - Richard Craib
 - "A job in the space of your passions are is like paid education—but don't get too comfortable." - Lex Fridman
@@ -83,6 +83,14 @@
 - "Sometimes you meet people for a reason, sometimes you meet people for a season." - Aziz Ansari
 - “If you want to know your past look into your present conditions. If you want to know your future look into your present actions.” - Chinese proverb
 - "Educating the mind without educating the heart is no education at all" - Aristotle
+- “Probability proves a good framework for making decisions when uncertainty is involved.” - Jane Street
+- “I don’t want to belong to any club that will accept me as a member.” - Groucho Marx
+- "Reality is the only thing that’s real/" - Jim Halliday
+- “Don’t be afraid to dream big. Doesn’t matter where you come from.” - Nimsdai
+- “I have to compete against myself to be better than who I was yesterday.” - Nimsdai
+- “I like people that do and not chat. You have to be willing to try. Trying means also, you have a chance to fail." - Nimsdai
+- "You have to get comfortable understanding 50%." - Neel
+- "Wake up and do what you want." - Enzo
 
 
 
