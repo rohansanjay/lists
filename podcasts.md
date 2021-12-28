@@ -7,5 +7,4 @@
 - Philosophize This!
 - Snacks Daily
 - The Curious Quant
-- The Daily
 - Up First
