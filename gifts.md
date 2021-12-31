@@ -1,4 +1,4 @@
-# Gift ideas I'd like
+# Gifts I like
 
 - Books
 - Bracelets
