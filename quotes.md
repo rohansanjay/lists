@@ -90,7 +90,8 @@
 - “I have to compete against myself to be better than who I was yesterday.” - Nimsdai
 - “I like people that do and not chat. You have to be willing to try. Trying means also, you have a chance to fail." - Nimsdai
 - "You have to get comfortable understanding 50%." - Neel
-- "Wake up and do what you want." - Enzo
-
-
-
+- "Wake up and do what you want." - Enzo Coglitore
+- "Work like a lion—sprint, rest, repeat." - Sahil Bloom
+- "What the smartest people do on the weekend is what everyone else will be doing during the week in 10 years." - Chris Dixon 
+- "Comparison is the thief of joy." - Tinx
+- "Kill ‘em with kindness." - Enzo Coglitore
