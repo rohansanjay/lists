@@ -26,4 +26,5 @@
 - Rex Orange County
 - Souly Had
 - Still Woozy
+- Zhu
 
