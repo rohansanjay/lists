@@ -95,3 +95,5 @@
 - "What the smartest people do on the weekend is what everyone else will be doing during the week in 10 years." - Chris Dixon 
 - "Comparison is the thief of joy." - Tinx
 - "Kill ‘em with kindness." - Enzo Coglitore
+- "History doesn't repeat itself but it rhymes." - Bankless
+- "Calculus is a simplification of reality." - Neel
