@@ -97,3 +97,4 @@
 - "Kill ‘em with kindness." - Enzo Coglitore
 - "History doesn't repeat itself but it rhymes." - Bankless
 - "Calculus is a simplification of reality." - Neel
+- "Harnessing the power of asymmetric upside." - Matt Huang
