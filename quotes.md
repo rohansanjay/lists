@@ -99,3 +99,4 @@
 - "Calculus is a simplification of reality." - Neel
 - "Harnessing the power of asymmetric upside." - Matt Huang
 - “Make everything as simple as possible, but not simpler.” - Albert Einstein
+- "Every child is an artist. The problem is how to remain an artist once they grow up.” - Pablo Picasso
