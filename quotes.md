@@ -100,3 +100,5 @@
 - "Harnessing the power of asymmetric upside." - Matt Huang
 - “Make everything as simple as possible, but not simpler.” - Albert Einstein
 - "Every child is an artist. The problem is how to remain an artist once they grow up.” - Pablo Picasso
+- "Invest in real estate with demographic tailwinds." - Tim Duffy
+- "There's a fool in every trade—if you don't know who it is, it's probably you." - Tim Duffy
