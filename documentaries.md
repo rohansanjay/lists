@@ -3,4 +3,5 @@
 - 14 Peaks
 - King Richard
 - The Great Hack
-- Seaspiracy 
+- Seaspiracy
+- Schumacher
