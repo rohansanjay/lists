@@ -102,3 +102,4 @@
 - "Every child is an artist. The problem is how to remain an artist once they grow up.” - Pablo Picasso
 - "Invest in real estate with demographic tailwinds." - Tim Duffy
 - "There's a fool in every trade—if you don't know who it is, it's probably you." - Tim Duffy
+- "The moon is only bright because it reflects the sunshine." - Zhu
