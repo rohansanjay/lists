@@ -103,4 +103,6 @@
 - "Invest in real estate with demographic tailwinds." - Tim Duffy
 - "There's a fool in every trade—if you don't know who it is, it's probably you." - Tim Duffy
 - "The moon is only bright because it reflects the sunshine." - Zhu
-- "I don’t like to talk about my failures because it’s your job to find them" - Michael Schumacher
+- "I don’t like to talk about my failures because it’s your job to find them." - Michael Schumacher
+- "You have to let things happen naturally." - Pelé
+- "The biggest gift you receive in victory isn’t the trophy. It’s the relief." - Pelé
