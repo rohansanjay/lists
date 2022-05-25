@@ -1,5 +1,6 @@
 # Podcasts I like
 
+- All-In
 - Bankless
 - Huberman Lab
 - Lex Fridman Podcast
@@ -7,4 +8,5 @@
 - Philosophize This!
 - Snacks Daily
 - The Curious Quant
+- Uncommon Core
 - Up First
