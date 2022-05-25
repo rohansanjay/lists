@@ -17,14 +17,14 @@
 - "What the smartest people do on the weekend is what everyone else will be doing during the week in 10 years." - Chris Dixon
 - "Work like a lion—sprint, rest, repeat." - Sahil Bloom
 - "Wake up and do what you want." - Enzo Coglitore
-- "You have to get comfortable understanding 50%." - Neel
-- “I like people that do and not chat. You have to be willing to try. Trying means also, you have a chance to fail." - Nimsdai
-- “I have to compete against myself to be better than who I was yesterday.” - Nimsdai
-- “Don’t be afraid to dream big. Doesn’t matter where you come from.” - Nimsdai
-- "Reality is the only thing that’s real/" - Jim Halliday
+- "You have to get comfortable understanding 50%." - Neelesh Tiruviluamala
+- “I like people that do and not chat. You have to be willing to try. Trying means also, you have a chance to fail." - Nirmal Purja
+- “I have to compete against myself to be better than who I was yesterday.” - Nirmal Purja
+- “Don’t be afraid to dream big. Doesn’t matter where you come from.” - Nirmal Purja
+- "Reality is the only thing that’s real." - Jim Halliday
 - “I don’t want to belong to any club that will accept me as a member.” - Groucho Marx
 - “Probability proves a good framework for making decisions when uncertainty is involved.” - Jane Street
-- "Educating the mind without educating the heart is no education at all" - Aristotle
+- "Educating the mind without educating the heart is no education at all." - Aristotle
 - “If you want to know your past look into your present conditions. If you want to know your future look into your present actions.” - Chinese proverb
 - "Sometimes you meet people for a reason, sometimes you meet people for a season." - Aziz Ansari
 - "The only source of knowledge is experience." - Albert Einstein
@@ -104,6 +104,6 @@
 - “Suffering is essential for creation, where you can suffer beautifully in a way that doesn’t destroy you.” - Lex Fridman
 - “Choose just a handful of things you engage with and engage with them well in a way you’re proud of.” - Grant Sanderson
 - “Engage with a handful of people deeply rather than many in a shallow way.” - Grant Sanderson
-- "No is a complete sentence." - Esther from 180
+- "No is a complete sentence." - Esther Cha
 - "A job in the space of your passions are is like paid education—but don't get too comfortable." - Lex Fridman
 - "Don't start a company unless you're prepared to make it your life's mission." - Richard Craib
