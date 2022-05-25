@@ -1,109 +1,109 @@
 # Quotes I like
 
-- "Don't start a company unless you're prepared to make it your life's mission." - Richard Craib
-- "A job in the space of your passions are is like paid education—but don't get too comfortable." - Lex Fridman
-- "No is a complete sentence." - Esther from 180
-- “Engage with a handful of people deeply rather than many in a shallow way.” - Grant Sanderson
-- “Choose just a handful of things you engage with and engage with them well in a way you’re proud of.” - Grant Sanderson
-- “Suffering is essential for creation, where you can suffer beautifully in a way that doesn’t destroy you.” - Lex Fridman
-- "It's easy to love someone for all the wonderful characteristics they have, but it's harder to love someone despite their faults and see them as something special." - Lisa Feldman
-- “People don’t lie to you about who they are, they lie to themselves in your presence—you don't want to get tangled up in that.” - Lisa Feldman
-- "You cannot be a self by yourself." - Hazel Rose Markus
-- "Choose relationships that allow you to be your best *selves*." - Lisa Feldman 
-- "Creativity is not disconnected from art." - Manolis Kellis
-- "A superior man is modest in his speech, but exceeds in his actions." - Confucius
-- “If you get anyone to start talking about themselves enough, they will forget that they were mad at you in the first place.”  - Matt Fan
-- “Human beings are amazing at extensively self-justifying their actions.” - Amit Kumar
-- "Unheroic days can make for heroic decades." - James Clear
-- "A teacher affects eternity; he can never tell where his influence stops." - Henry Adams
-- "Love each other or perish—without love, we are birds with broken wings." - Morrie Schwartz
-- "Hack implies some sort of trick—like you’re gaming the system. What works in mechanism.” - Andrew Huberman
-- “Pain is weakness leaving the body.” - Amit Kumar
-- "Better living through chemistry still requires better living." - Andrew Huberman's Friend
-- "Language is not just words, it’s everything together—and that’s one of the fascinating things about the eyes and the window to the soul." - Lex Fridman
-- "Getting into states of wordlessness is very renewing and replenishing." - Andrew Huberman
-- "Repetition unlocks value." - James Clear
-- "Don't cling to things because everything this is impermanent." - Morrie Schwartz
-- "Fate succumbs many a species: one along jeopardizes itself." - W. H. Auden
-- "Each night, when I go to sleep, I die. And the next morning, when I wake up, I am reborn." - Mahatma Gandhi
-- "If you've found meaning in your life, you don't want to go back. You want to go forward." - Morrie Schwartz
-- "Only an open heart will allow you to float equally between everyone." - Morrie Schwartz
-- "Nothing is really work unless you would rather be doing something else." - James M. Barrie
-- “You really have to know a field to extract the best things from that field.” - Andrew Huberman
-- "Love each other or die." - Morrie Schwartz
-- "Agitation and strain is the entry point to neural plasticity." - Andrew Huberman
-- "Everybody works for somebody." - Javier Pena
-- "Once you get your fingers on the important questions, you can’t turn away from them." - Morrie Schwartz
-- "Love is when you are concerned about someone else’s situation as you are your own." - Morrie Schwartz
-- "Pay attention to when your loved ones are speaking, as if it might be the last time you hear them." - Mitch Albom
-- "There is no such thing as too late in life." - Mitch Albom
-- "The universe is too grand and harmonious to believe it’s all an accident." - Morrie Albom
-- "Being present enable you to fully notice and drink in the good moments." - Olivia Fox Cabane
-- "You don’t get what you don’t ask for." - Enzo Coglitore
-- "Sleep is an extension of the waking state." - Andrew Huberman
-- "Regression to the mean is a very strong instinct." - Amit Kumar
-- "Where are we now and what changes do we need to make, if any, to get to a better point tomorrow." - Amit Kumar
-- "Do it for 0, 1, or infinity." - Amit Kumar
-- "To know others is knowledge. To know oneself is wisdom." - Lao Tzu
-- “Let your reaction to rejection define yourself.” - Jia Jiang
-- "If you mention and empathize with some doubt people have by asking them about it, then you are more likely to gain their trust because it makes them feel like you are thinking like them." - Jia Jiang
-- "The feat of being unlovable: Shame is the intensely painful feeling or experience of believing that we are flawed and therefore unworthy of love and belonging." - Brené Brown
-- "Failure is seldom fatal." - Winston Churchill
-- "Resentment is like drinking poison and waiting for the other person to die." - Olivia Fox Cabane's favorite adage
-- “Live your life like you’re the hero in your movie and right now is when the movie starts.” - Joe Rogan
-- “High value individuals don’t let low value individuals occupy space in their mind.” - Enzo Coglitore
-- “You generate massive goodwill when you laugh with someone rather than at them.” - Charlie Houpert
-- “Our life is what our thoughts make it.” - Marcus Aurelius
-- "Try to find an environments where they are more stakeholders for yourself, where if you fail or succeed, more people care." - Gaurav Chakravorty
-- "A good sweet spot is companies that are 50 - 100 people who have the time to invest in you." - Gaurav Chakravorty
-- "If you want a job, start doing the work before you start the job." - Emile Chamoun
-- "It’s better to say no diplomatically to good opportunities than do them poorly." - Sean Xu
-- "Flow is an expression of what we already know how to do, it is not a state for learning." - Andrew Huberman
-- “Any sort of risk-taking venture should have good and bad days; otherwise, you’re not properly allocating risk.” - Arjun Mithal
-- “The best memories of college come from the nights where you stray from moderation, but that can’t be too often either. You’ll be the best judge of what is too much, but just know that you don’t always need to be on top of stuff, but you can’t always be going off the rails.” - Nick Chua
-- “The purpose of wealth is freedom.” - Naval
-- “You build your character in a certain way and then your character becomes your destiny.” - Naval
-- “You want to look for professions and careers where the inputs and outputs are highly disconnected. You want to look for things that are leveraged.” - Naval
-- “You get rich by giving society what it wants but doesn’t know, at scale.” - Naval
-- “Everyone is the best at something. Escape competition through authenticity.” - Naval
-- “You can’t believe in the buttlerly effect and simeltaneously think your actions have any meaning: live in the moment with local optimizations (don’t do global because you just don’t know).” - Amit
-- “Simplicity is the final achievement.” - Frédéric Chopin
-- "No is a decision. Yes is a responsibility." - James Clear
-- "Logic makes people think. Emotion makes them act." - Alan Weiss
-- “There are two types of speakers… Those that are nervous and those that are liars.” - Mark Twain
-- "Humans are quite resilient; if you are exposed to a stress for a long time, you’ll eventually adapt to it." - Diana Lu
-- "The best idea rarely wins on intrinsic merit." - Brad Karsh
-- "The effective of your solution is bounded by only your understanding so make sure you understand what you are working on." - Tyler McDougall
-- "Do what excites you with people who you see yourself excited working with." - Sunny Khiani
-- "The best way to have opportunities put in front of you and mobility in the organization is to do your current job really well." - George Hartman
-- "You need to make crisp predictions and question everything that’s happening and when you don’t know, don’t do anything." - Gaurav Kumar
-- "Humans are bad at predicting one instance but improve over many different instances." - Gaurav Kumar
-- "Finance: you can do something you believe is good and see if the market thinks it’s good -> instant gratification." - Diana Lu
-- "The only source of knowledge is experience." - Albert Einstein 
-- "Sometimes you meet people for a reason, sometimes you meet people for a season." - Aziz Ansari
-- “If you want to know your past look into your present conditions. If you want to know your future look into your present actions.” - Chinese proverb
-- "Educating the mind without educating the heart is no education at all" - Aristotle
-- “Probability proves a good framework for making decisions when uncertainty is involved.” - Jane Street
-- “I don’t want to belong to any club that will accept me as a member.” - Groucho Marx
-- "Reality is the only thing that’s real/" - Jim Halliday
-- “Don’t be afraid to dream big. Doesn’t matter where you come from.” - Nimsdai
-- “I have to compete against myself to be better than who I was yesterday.” - Nimsdai
-- “I like people that do and not chat. You have to be willing to try. Trying means also, you have a chance to fail." - Nimsdai
-- "You have to get comfortable understanding 50%." - Neel
-- "Wake up and do what you want." - Enzo Coglitore
-- "Work like a lion—sprint, rest, repeat." - Sahil Bloom
-- "What the smartest people do on the weekend is what everyone else will be doing during the week in 10 years." - Chris Dixon 
-- "Comparison is the thief of joy." - Tinx
-- "Kill ‘em with kindness." - Enzo Coglitore
-- "History doesn't repeat itself but it rhymes." - Bankless
-- "Calculus is a simplification of reality." - Neel
-- "Harnessing the power of asymmetric upside." - Matt Huang
-- “Make everything as simple as possible, but not simpler.” - Albert Einstein
-- "Every child is an artist. The problem is how to remain an artist once they grow up.” - Pablo Picasso
-- "Invest in real estate with demographic tailwinds." - Tim Duffy
-- "There's a fool in every trade—if you don't know who it is, it's probably you." - Tim Duffy
-- "The moon is only bright because it reflects the sunshine." - Zhu
-- "I don’t like to talk about my failures because it’s your job to find them." - Michael Schumacher
-- "You have to let things happen naturally." - Pelé
-- "The biggest gift you receive in victory isn’t the trophy. It’s the relief." - Pelé
 - "If you can have any superpower, luck is the one you want." - Elon Musk
+- "The biggest gift you receive in victory isn’t the trophy. It’s the relief." - Pelé
+- "You have to let things happen naturally." - Pelé
+- "I don’t like to talk about my failures because it’s your job to find them." - Michael Schumacher
+- "The moon is only bright because it reflects the sunshine." - Zhu
+- "There's a fool in every trade—if you don't know who it is, it's probably you." - Tim Duffy
+- "Invest in real estate with demographic tailwinds." - Tim Duffy
+- "Every child is an artist. The problem is how to remain an artist once they grow up.” - Pablo Picasso
+- “Make everything as simple as possible, but not simpler.” - Albert Einstein
+- "Harnessing the power of asymmetric upside." - Matt Huang
+- "Calculus is a simplification of reality." - Neelesh Tiruviluamala
+- "History doesn't repeat itself but it rhymes." - Bankless
+- "Kill ‘em with kindness." - Enzo Coglitore
+- "Comparison is the thief of joy." - Tinx
+- "What the smartest people do on the weekend is what everyone else will be doing during the week in 10 years." - Chris Dixon
+- "Work like a lion—sprint, rest, repeat." - Sahil Bloom
+- "Wake up and do what you want." - Enzo Coglitore
+- "You have to get comfortable understanding 50%." - Neel
+- “I like people that do and not chat. You have to be willing to try. Trying means also, you have a chance to fail." - Nimsdai
+- “I have to compete against myself to be better than who I was yesterday.” - Nimsdai
+- “Don’t be afraid to dream big. Doesn’t matter where you come from.” - Nimsdai
+- "Reality is the only thing that’s real/" - Jim Halliday
+- “I don’t want to belong to any club that will accept me as a member.” - Groucho Marx
+- “Probability proves a good framework for making decisions when uncertainty is involved.” - Jane Street
+- "Educating the mind without educating the heart is no education at all" - Aristotle
+- “If you want to know your past look into your present conditions. If you want to know your future look into your present actions.” - Chinese proverb
+- "Sometimes you meet people for a reason, sometimes you meet people for a season." - Aziz Ansari
+- "The only source of knowledge is experience." - Albert Einstein
+- "Finance: you can do something you believe is good and see if the market thinks it’s good -> instant gratification." - Diana Lu
+- "Humans are bad at predicting one instance but improve over many different instances." - Gaurav Kumar
+- "You need to make crisp predictions and question everything that’s happening and when you don’t know, don’t do anything." - Gaurav Kumar
+- "The best way to have opportunities put in front of you and mobility in the organization is to do your current job really well." - George Hartman
+- "Do what excites you with people who you see yourself excited working with." - Sunny Khiani
+- "The effective of your solution is bounded by only your understanding so make sure you understand what you are working on." - Tyler McDougall
+- "The best idea rarely wins on intrinsic merit." - Brad Karsh
+- "Humans are quite resilient; if you are exposed to a stress for a long time, you’ll eventually adapt to it." - Diana Lu
+- “There are two types of speakers… Those that are nervous and those that are liars.” - Mark Twain
+- "Logic makes people think. Emotion makes them act." - Alan Weiss
+- "No is a decision. Yes is a responsibility." - James Clear
+- “Simplicity is the final achievement.” - Frédéric Chopin
+- “You can’t believe in the buttlerly effect and simeltaneously think your actions have any meaning: live in the moment with local optimizations (don’t do global because you just don’t know).” - Amit
+- “Everyone is the best at something. Escape competition through authenticity.” - Naval
+- “You get rich by giving society what it wants but doesn’t know, at scale.” - Naval
+- “You want to look for professions and careers where the inputs and outputs are highly disconnected. You want to look for things that are leveraged.” - Naval
+- “You build your character in a certain way and then your character becomes your destiny.” - Naval
+- “The purpose of wealth is freedom.” - Naval
+- “The best memories of college come from the nights where you stray from moderation, but that can’t be too often either. You’ll be the best judge of what is too much, but just know that you don’t always need to be on top of stuff, but you can’t always be going off the rails.” - Nick Chua
+- “Any sort of risk-taking venture should have good and bad days; otherwise, you’re not properly allocating risk.” - Arjun Mithal
+- "Flow is an expression of what we already know how to do, it is not a state for learning." - Andrew Huberman
+- "It’s better to say no diplomatically to good opportunities than do them poorly." - Sean Xu
+- "If you want a job, start doing the work before you start the job." - Emile Chamoun
+- "A good sweet spot is companies that are 50 - 100 people who have the time to invest in you." - Gaurav Chakravorty
+- "Try to find an environments where they are more stakeholders for yourself, where if you fail or succeed, more people care." - Gaurav Chakravorty
+- “Our life is what our thoughts make it.” - Marcus Aurelius
+- “You generate massive goodwill when you laugh with someone rather than at them.” - Charlie Houpert
+- “High value individuals don’t let low value individuals occupy space in their mind.” - Enzo Coglitore
+- “Live your life like you’re the hero in your movie and right now is when the movie starts.” - Joe Rogan
+- "Resentment is like drinking poison and waiting for the other person to die." - Olivia Fox Cabane's favorite adage
+- "Failure is seldom fatal." - Winston Churchill
+- "The feat of being unlovable: Shame is the intensely painful feeling or experience of believing that we are flawed and therefore unworthy of love and belonging." - Brené Brown
+- "If you mention and empathize with some doubt people have by asking them about it, then you are more likely to gain their trust because it makes them feel like you are thinking like them." - Jia Jiang
+- “Let your reaction to rejection define yourself.” - Jia Jiang
+- "To know others is knowledge. To know oneself is wisdom." - Lao Tzu
+- "Do it for 0, 1, or infinity." - Amit Kumar
+- "Where are we now and what changes do we need to make, if any, to get to a better point tomorrow." - Amit Kumar
+- "Regression to the mean is a very strong instinct." - Amit Kumar
+- "Sleep is an extension of the waking state." - Andrew Huberman
+- "You don’t get what you don’t ask for." - Enzo Coglitore
+- "Being present enable you to fully notice and drink in the good moments." - Olivia Fox Cabane
+- "The universe is too grand and harmonious to believe it’s all an accident." - Morrie Albom
+- "There is no such thing as too late in life." - Mitch Albom
+- "Pay attention to when your loved ones are speaking, as if it might be the last time you hear them." - Mitch Albom
+- "Love is when you are concerned about someone else’s situation as you are your own." - Morrie Schwartz
+- "Once you get your fingers on the important questions, you can’t turn away from them." - Morrie Schwartz
+- "Everybody works for somebody." - Javier Pena
+- "Agitation and strain is the entry point to neural plasticity." - Andrew Huberman
+- "Love each other or die." - Morrie Schwartz
+- “You really have to know a field to extract the best things from that field.” - Andrew Huberman
+- "Nothing is really work unless you would rather be doing something else." - James M. Barrie
+- "Only an open heart will allow you to float equally between everyone." - Morrie Schwartz
+- "If you've found meaning in your life, you don't want to go back. You want to go forward." - Morrie Schwartz
+- "Each night, when I go to sleep, I die. And the next morning, when I wake up, I am reborn." - Mahatma Gandhi
+- "Fate succumbs many a species: one along jeopardizes itself." - W. H. Auden
+- "Don't cling to things because everything this is impermanent." - Morrie Schwartz
+- "Repetition unlocks value." - James Clear
+- "Getting into states of wordlessness is very renewing and replenishing." - Andrew Huberman
+- "Language is not just words, it’s everything together—and that’s one of the fascinating things about the eyes and the window to the soul." - Lex Fridman
+- "Better living through chemistry still requires better living." - Andrew Huberman's Friend
+- “Pain is weakness leaving the body.” - Amit Kumar
+- "Hack implies some sort of trick—like you’re gaming the system. What works in mechanism.” - Andrew Huberman
+- "Love each other or perish—without love, we are birds with broken wings." - Morrie Schwartz
+- "A teacher affects eternity; he can never tell where his influence stops." - Henry Adams
+- "Unheroic days can make for heroic decades." - James Clear
+- “Human beings are amazing at extensively self-justifying their actions.” - Amit Kumar
+- “If you get anyone to start talking about themselves enough, they will forget that they were mad at you in the first place.” - Matt Fan
+- "A superior man is modest in his speech, but exceeds in his actions." - Confucius
+- "Creativity is not disconnected from art." - Manolis Kellis
+- "Choose relationships that allow you to be your best selves." - Lisa Feldman
+- "You cannot be a self by yourself." - Hazel Rose Markus
+- “People don’t lie to you about who they are, they lie to themselves in your presence—you don't want to get tangled up in that.” - Lisa Feldman
+- "It's easy to love someone for all the wonderful characteristics they have, but it's harder to love someone despite their faults and see them as something special." - Lisa Feldman
+- “Suffering is essential for creation, where you can suffer beautifully in a way that doesn’t destroy you.” - Lex Fridman
+- “Choose just a handful of things you engage with and engage with them well in a way you’re proud of.” - Grant Sanderson
+- “Engage with a handful of people deeply rather than many in a shallow way.” - Grant Sanderson
+- "No is a complete sentence." - Esther from 180
+- "A job in the space of your passions are is like paid education—but don't get too comfortable." - Lex Fridman
+- "Don't start a company unless you're prepared to make it your life's mission." - Richard Craib
