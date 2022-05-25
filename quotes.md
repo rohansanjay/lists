@@ -106,3 +106,4 @@
 - "I don’t like to talk about my failures because it’s your job to find them." - Michael Schumacher
 - "You have to let things happen naturally." - Pelé
 - "The biggest gift you receive in victory isn’t the trophy. It’s the relief." - Pelé
+- "If you can have any superpower, luck is the one you want." - Elon Musk
