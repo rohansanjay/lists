@@ -1,5 +1,6 @@
 # Quotes I like
 
+- "The world gives you back what you put into it." - Matt Huang
 - "If you can have any superpower, luck is the one you want." - Elon Musk
 - "The biggest gift you receive in victory isn’t the trophy. It’s the relief." - Pelé
 - "You have to let things happen naturally." - Pelé
