@@ -7,3 +7,5 @@
 - Return to Space
 - Seaspiracy
 - Schumacher
+- The Social Dilemna
+- The Social Network
