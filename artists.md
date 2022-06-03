@@ -1,30 +1,24 @@
 # Artists I like
 
 - Aminé
-- A$AP Rocky
-- Bazzi
-- Bea Miller
-- Boy Pablo
+- Bad Bunny
 - Berhana
 - Billie Eilish
 - Charlie Parker
 - Daniel Ceasar
 - Dave Brubeck
-- Dua Lipa
+- Don Toliver
 - Drake
 - Felly
 - Frank Ocean
-- Hozier
 - J. Cole
 - Jack Harlow
 - John Coltrane
 - Justin Bieber
-- Khalid
-- Louis The Child
+- Kaytranada
 - Mac Miller
 - Miles Davis
 - Rex Orange County
 - Souly Had
 - Still Woozy
 - Zhu
-
