@@ -1,3 +1,3 @@
-# Placed I like
+# Places I like
 
 Otw...
