@@ -1,5 +1,7 @@
 # Quotes I like
 
+- "It's about the optics." - DCF God
+- "There’s enojoyment in doing things you don’t enjoy." - Joe rogan
 - "NFTs are a way to connect culture to the internet." - Marc Andreessen
 - "All the people who end up doing things that matter think through things themselves from first principles." - Fred Ehrsam
 - “Follow the places where you can make a contribution. Pursue less happiness and more satisfaction. Happiness is temporary, satisfaction is deep and enduring. Attach yourself to the right people. Hard work applied with leverage will get you far.” - Marc Andreessen
