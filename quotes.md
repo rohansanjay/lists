@@ -1,5 +1,6 @@
 # Quotes I like
 
+- "We are all apprentices in a craft where no one becomes a master.” - Ernest Hemingway
 - "But at the end of the day, I choose to long the creativity of humanity." - Tina
 - "It's about the optics." - DCF God
 - "There’s enojoyment in doing things you don’t enjoy." - Joe rogan
