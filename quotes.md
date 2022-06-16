@@ -1,5 +1,8 @@
 # Quotes I like
 
+- "You need to decide if you want to be on the dance floor or on the balcony." - Toto Wolff
+- "Coiled spring on a path to hyper growth." - Vance Spencer
+- "If." - Sparta
 - "We are all apprentices in a craft where no one becomes a master.” - Ernest Hemingway
 - "But at the end of the day, I choose to long the creativity of humanity." - Tina
 - "It's about the optics." - DCF God
