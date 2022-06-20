@@ -1,5 +1,6 @@
 # Quotes I like
 
+- "Only a weakling would do that." - Max Verstappen
 - “In my opinion, one does not substitute oneself for the past, one just adds a new link.” Paul Cezanne
 - "You need to decide if you want to be on the dance floor or on the balcony." - Toto Wolff
 - "Coiled spring on a path to hyper growth." - Vance Spencer
