@@ -1,5 +1,6 @@
 # Quotes I like
 
+- "You should always be slightly uncomfortable." - Matthew Benney
 - "Only a weakling would do that." - Max Verstappen
 - “In my opinion, one does not substitute oneself for the past, one just adds a new link.” Paul Cezanne
 - "You need to decide if you want to be on the dance floor or on the balcony." - Toto Wolff
