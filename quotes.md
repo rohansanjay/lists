@@ -1,5 +1,6 @@
 # Quotes I like
 
+- “You have to be aggressively abnormal in protecting your time because if you don’t, the world will steal your time and energy from you.” - Y Combinator
 - "You should always be slightly uncomfortable." - Matthew Benney
 - "Only a weakling would do that." - Max Verstappen
 - “In my opinion, one does not substitute oneself for the past, one just adds a new link.” Paul Cezanne
