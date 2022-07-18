@@ -1,5 +1,7 @@
 # Quotes I like
 
+- “Give me a place to stand, and a lever long enough, and I will move the world.” - Archimedes
+- "Take rationally optimistic bets with big upside." - Naval
 - “You have to be aggressively abnormal in protecting your time because if you don’t, the world will steal your time and energy from you.” - Y Combinator
 - "You should always be slightly uncomfortable." - Matthew Benney
 - "Only a weakling would do that." - Max Verstappen
